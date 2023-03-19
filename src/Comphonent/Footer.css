@@ -1,0 +1,26 @@
+.footer-opacity {
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+}
+._footer-head {
+  font-size: 20px;
+  font-weight: bold;
+}
+._footer-para {
+  color: #888;
+}
+
+._footer-button {
+  background-color: var(--primary);
+  color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 0;
+}
+._footer-icon {
+  font-size: 30px;
+}

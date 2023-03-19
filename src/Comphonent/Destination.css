@@ -1,0 +1,51 @@
+.middlesec {
+  background-color: #f4f4f4;
+}
+.world {
+  text-align: center;
+  font-weight: bold;
+  color: var(--primary);
+  font-size: 20px;
+}
+.destination {
+  margin-top: 0px;
+  font-weight: bold;
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-size: 40px;
+  line-height: 58px;
+  margin: 20px;
+  text-align: center;
+}
+.para {
+  text-align: center;
+  font-size: 20px;
+  color: #888888;
+  font-family: "Open Sans", sans-serif;
+}
+.specing {
+  padding-top: 100px;
+}
+.image {
+  padding: 20px;
+}
+._2nd-header {
+  font-size: 25px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  color: #444444;
+}
+._2ndpara {
+  font-size: 15px;
+}
+.midsecbutton {
+  background-color: var(--primary);
+  color: white;
+  font-weight: bold;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 30px;
+  border: 0px;
+}

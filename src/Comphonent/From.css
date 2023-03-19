@@ -1,0 +1,39 @@
+.from {
+  background-color: #f4f4f4;
+}
+._header-form {
+  font-size: 18px;
+  color: var(--primary);
+  font-weight: bold;
+}
+._text-design {
+  color: #888;
+}
+.name {
+  width: 400px;
+  background-color: white;
+  border: 0;
+}
+.email {
+  width: 400px;
+  background-color: white;
+  border: 0;
+}
+.number {
+  width: 400px;
+  background-color: white;
+  border: 0;
+}
+.plan {
+  width: 400px;
+  background-color: white;
+  border: 0;
+}
+.submit {
+  width: 400px;
+  background-color: var(--primary);
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border: 0px;
+}

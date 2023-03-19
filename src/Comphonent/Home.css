@@ -1,0 +1,75 @@
+.header {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+}
+
+.listItem ul li {
+  list-style: none;
+  display: inline-block;
+  padding-left: 15px;
+  font-size: 15px;
+}
+.listItem ul li a {
+  color: #999999;
+  text-decoration: none;
+}
+
+.icon {
+  font-size: x-large;
+}
+
+.color {
+  color: #999999;
+  text-decoration: none;
+}
+/*  djfdsjdjf*/
+
+.hotel h1 {
+  color: white;
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+.hotel p {
+  max-width: 600px;
+  padding-top: 20px;
+}
+
+.font-size {
+  font-size: 60px;
+  font-weight: bold;
+}
+.paragraph {
+  color: #bbb;
+  font-size: 20px;
+  padding-bottom: 30px;
+}
+.button {
+  background-color: var(--primary);
+  border: none;
+  color: white;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 30px;
+}
+/* 2nd icon part */
+.container {
+  padding-top: 60px;
+  padding-bottom: 100px;
+}
+.icon2 {
+  color: var(--primary);
+  font-size: 100px;
+  align-items: center;
+}
+
+.iconfont {
+  color: #fff;
+  font-size: 20px;
+}

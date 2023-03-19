@@ -1,0 +1,10 @@
+.appBackground {
+  background-image: url(./Image/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.App {
+  font-family: "Open Sans", sans-serif;
+}
